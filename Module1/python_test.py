@@ -16,7 +16,7 @@ def example():
 				("q_4", "a") : "q_4",
 				("q_4", "b") : "q_4",
 			} # Transition function
-	q_0 = "q_0" # Start set
+	q_0 = "q_0" # Start state
 	F = {"q_3"} # Final set
 
 	# return DFA
